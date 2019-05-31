@@ -21,8 +21,13 @@
 	"contributes": {
 		"commands": [
 			{
-				"command": "windowSwitch.switchToLastOpenedEditor",
-				"title": "Switch to Last Opened Editor",
+				"command": "windowSwitch.switchToLastOpenedFile",
+				"title": "Switch to Last Opened File",
+				"category": "Window Switch"
+			},
+			{
+				"command": "windowSwitch.listOpenedFiles",
+				"title": "List Opened Files",
 				"category": "Window Switch"
 			}
 		]
