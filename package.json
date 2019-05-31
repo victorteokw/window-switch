@@ -29,6 +29,11 @@
 				"command": "windowSwitch.listOpenedFiles",
 				"title": "List Opened Files",
 				"category": "Window Switch"
+			},
+			{
+				"command": "windowSwitch.saveFileInActiveEditor",
+				"title": "Save File in Active Editor",
+				"category": "Window Switch"
 			}
 		]
 	},
